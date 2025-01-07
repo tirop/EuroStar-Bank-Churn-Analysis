@@ -20,6 +20,7 @@ EuroStar’s dataset contains 10,000 customer records. Each record represents a 
 * Behavioral Metrics: Tenure, number of products, credit card ownership, and activity status.
 * Financial Metrics: Balance, salary estimate, credit score.
 * Outcome: Churn (binary: exited or retained).
+  
 Data Cleaning:
 To prepare the data for analysis, the following preprocessing steps were applied:
 * Addressed missing values and duplicates (e.g., replacing NULL with averages for numerical fields, and standardizing categorical data).
@@ -27,7 +28,8 @@ To prepare the data for analysis, the following preprocessing steps were applied
 * Ensured binary variables (has_cr_card, is_active_member) were encoded for analysis.
 * Detailed cleaning of text fields like surname (removal of invalid characters).
 * Dataset integrity validated after processing.
-The dataset was visualized in Tableau (here), revealing trends in churn and retention by tenure, geography, and gender.
+The dataset was visualized in Tableau ([here](https://public.tableau.com/app/profile/joshua.kendagor/viz/BankChurn_1_v4/ChurnDashboardV2)
+), revealing trends in churn and retention by tenure, geography, and gender.
 
 
 Executive Summary
@@ -42,7 +44,6 @@ Tenure Analysis:
 Early-tenure customers (tenure ≤1 year) face severe churn rates, with the highest churn at 23% for tenure of 0 years. These findings underscore the importance of targeted engagement strategies during the onboarding phase.
 Below is the overview page from the Tableau dashboard. The entire interactive dashboard can be downloaded here.
   
-
 Insights Deep Dive
 Demographics
 Female customers are disproportionately affected, with a churn rate 25.07% compared to 16.46% in men- a disparity of  8.61 percentage points. This could indicate unmet needs or dissatisfaction among female clients that stem from product misalignment or communication gaps. To improve retention rates, this critical disparity must be addressed.
@@ -52,7 +53,6 @@ Germany's churn rate of 32.44% is more than double that of Spain (16.67%) and Fr
 
 Tenure
 Newer customers (tenure ≤1 year) have the highest churn rates, peaking at 23% for first-year members. This trend underscores the importance of early engagement initiatives to improve retention and foster long-term loyalty. Customers with longer tenures demonstrate significantly lower churn rates. This fact highlights the value of sustained relationships, and why long term customer retention should remain a priority.
-
 
 Retention
 The current retention rate stands at 79.63%. This is below the 85% target, and indicates the need for a strategic focus on at-risk segments. Our suggestion is to focus on key at-risk segments such as early-tenure customers, German clients, and female customers. Doing so will be instrumental in closing this gap.
