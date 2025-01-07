@@ -9,9 +9,9 @@ The insights and recommendations provided within this report are provided on the
 * Churn Predictions: Assessing key areas such as demographics and tenure make key predictions in terms of churn
 
 ### Data Sources:
-* An interactive Tableau Dashboard can be downloaded here.
-* The SQL queries utilized to clean, organize, and prepare data for analysis and visualization can be found here.
-* Original Dataset:
+* An interactive Tableau Dashboard can be downloaded ([here](https://public.tableau.com/app/profile/joshua.kendagor/viz/BankChurn_1_v4/ChurnDashboardV2)).
+* Original Dataset: ([here](https://github.com/tirop/EuroStar-Bank-Churn-Analysis/blob/main/Bank_Churn.csv)).
+
 
 ### Data Structure & Initial Checks:
 EuroStar’s dataset contains 10,000 customer records. Each record represents a unique individual, with attributes categorized into the following dimensions:
