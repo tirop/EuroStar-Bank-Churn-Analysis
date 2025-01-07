@@ -28,12 +28,14 @@ To prepare the data for analysis, the following preprocessing steps were applied
 * Ensured binary variables (has_cr_card, is_active_member) were encoded for analysis.
 * Detailed cleaning of text fields like surname (removal of invalid characters).
 * Dataset integrity validated after processing.
-The dataset was visualized in Tableau ([here](https://public.tableau.com/app/profile/joshua.kendagor/viz/BankChurn_1_v4/ChurnDashboardV2)
-), revealing trends in churn and retention by tenure, geography, and gender.
+The dataset was visualized in Tableau ([here](https://public.tableau.com/app/profile/joshua.kendagor/viz/BankChurn_1_v4/ChurnDashboardV2)),
+revealing trends in churn and retention by tenure, geography, and gender.
 
 
 Executive Summary
+
 Overview and Location Findings:
+
 EuroBank’s current churn rate stands at 20.37%. This significantly exceeds the target rate of 15%, and signals a critical need for retention-focused interventions. 
 Germany’s churn rate is 32.44% which is more than double that of Spain (16.67%) and France(16.5%). However, note that while Germany’s churn rates are higher than France or Spain, churn rates for all three countries are above the 15% target.
 
@@ -42,7 +44,12 @@ Female customers, with a churn rate of 25.07%, are at a higher risk of attrition
 
 Tenure Analysis:
 Early-tenure customers (tenure ≤1 year) face severe churn rates, with the highest churn at 23% for tenure of 0 years. These findings underscore the importance of targeted engagement strategies during the onboarding phase.
-Below is the overview page from the Tableau dashboard. The entire interactive dashboard can be downloaded here.
+
+Below is the overview page from the Tableau dashboard. 
+
+![Screenshot 2025-01-07 125939](https://github.com/user-attachments/assets/74f5fffd-49b9-44fe-a25b-921509e2e225)
+
+The entire interactive dashboard can be downloaded([here](https://public.tableau.com/app/profile/joshua.kendagor/viz/BankChurn_1_v4/ChurnDashboardV2).
   
 Insights Deep Dive
 Demographics
