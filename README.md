@@ -2,16 +2,19 @@
 
 EuroStar Bank, the seventh largest financial institution in Western Europe, seeks to improve customer retention using customer data to identify and understand drivers of member attrition. While EuroStar operates across multiple countries, this institution has made  Germany, Spain, and France a priority, as these countries represent 65% of its members. 
 This report uses a dataset containing 10,000 customer records. These records consist of customer demographics, behavior, and financial details. The objective is to use this data to identify the factors that drive customer churn and provide actionable insights to enhance retention strategies.
+
 The insights and recommendations provided within this report are provided on the following key areas:
 * Tenure, Location, Gender: Evaluation of patterns in length of membership, geography, and gender with a focus on rates of churn within each field.
 * Retention metrics: An analysis of EuroStar Bank’s retention rates benchmarked against target rates.
 * Churn Predictions: Assessing key areas such as demographics and tenure make key predictions in terms of churn
+
 Data Sources:
 * An interactive Tableau Dashboard can be downloaded here.
 * The SQL queries utilized to clean, organize, and prepare data for analysis and visualization can be found here.
 * Original Dataset:
 
 Data Structure & Initial Checks
+
 EuroStar’s dataset contains 10,000 customer records. Each record represents a unique individual, with attributes categorized into the following dimensions:
 * Demographic Data: Gender, age, geography.
 * Behavioral Metrics: Tenure, number of products, credit card ownership, and activity status.
