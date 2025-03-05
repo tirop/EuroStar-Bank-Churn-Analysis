@@ -66,23 +66,8 @@ The current retention rate stands at 79.63%. This is below the 85% target, and i
 To address location, gender, and tenure related churn, we have some suggestions.
 To mitigate churn and improve retention, the following targeted strategies are proposed:
 
-1. #### Location-Based Strategies:
-* Priority Focus on Germany: With a churn rate of 32.44%, Germany requires swift attention.
-   * Conduct customer satisfaction surveys to identify key pain points and areas for customer service improvement.
-   * Launch targeted retention campaigns that offer personalized discounts or incentives tailored to German customers.
-* Extend similar initiatives to France and Spain, where churn rates (16.5% and 16.67%, respectively) also exceed the target of 15%.
+Germany stands out as a clear priority, with a churn rate of 32.44%—far above the target of 15%—making swift action essential. One immediate step is to conduct customer satisfaction surveys to better understand pain points and pinpoint areas for service improvement. From there, targeted retention campaigns offering personalized discounts or incentives tailored to German customers could help reduce churn. Similar approaches should be extended to France and Spain, where churn rates (16.5% and 16.67%, respectively) also exceed the target.
 
+In addition to location-specific strategies, gender-focused initiatives could further improve retention, particularly by designing financial products and services that address unmet needs for female customers. These efforts should be informed by feedback from surveys and focus groups, with tailored communication campaigns that emphasize empathy, transparency, and trust. Another critical focus should be tenure-based engagement, starting with stronger onboarding programs for new customers, including personalized financial consultations within the first six months, as well as loyalty incentives like fee waivers or cashback rewards during their first year.
 
-2. #### Gender-Specific Interventions:
-* Design women-focused financial products and services to address unmet needs that leverage feedback from focus groups or surveys.
-* Launch tailored communication campaigns addressing female-specific concerns, emphasizing empathy, transparency, and trust.
-
-3. #### Tenure-Based Engagement:
-* Strengthen onboarding programs for new customers. This could include:
-   * Personalized financial consultations during the first six months of tenure.
-   * Loyalty incentives for first-year customers, such as fee waivers or cashback rewards.
-   
-4. #### Retention Monitoring Framework:
-* Establish monthly Tableau-based retention reports to track churn rates and identify emerging trends across countries and demographics.
-* Conduct quarterly stakeholder reviews to evaluate the effectiveness of implemented strategies and adjust tactics as needed.
-By prioritizing location, gender, and tenure-specific interventions, EuroStar Bank can align its offerings with customer needs, reducing churn and achieving its retention target of 85%.
+To keep these strategies on track, EuroStar Bank should implement a retention monitoring framework, using monthly Tableau reports to track churn rates and spot emerging trends across regions and demographics. Quarterly stakeholder reviews will ensure the strategies remain effective and allow for adjustments as needed. By taking a multi-pronged approach that considers location, gender, and tenure, EuroStar Bank can better align its offerings with customer needs, reduce churn, and work toward its retention goal of 85%.
