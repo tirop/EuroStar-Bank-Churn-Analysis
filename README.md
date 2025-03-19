@@ -35,7 +35,7 @@ revealing trends in churn and retention by tenure, geography, and gender.
 ### Overview and Location Findings:
 
 EuroBank’s current churn rate stands at 20.37%. This significantly exceeds the target rate of 15%, and signals a critical need for retention-focused interventions. 
-Germany’s churn rate is 32.44% which is more than double that of Spain (16.67%) and France(16.5%). However, note that while Germany’s churn rates are higher than France or Spain, churn rates for all three countries are above the 15% target.
+Germany’s churn rate is 32.44% which is significantly higher than that of Spain (16.67%) and France(16.5%). However, note that while Germany’s churn rates are higher than France or Spain, churn rates for all three countries are above the 15% target.
 
 ### Demographic Insight:
 Female customers, with a churn rate of 25.07%, are at a higher risk of attrition compared to male customers (16.46%). This disparity suggests potential dissatisfaction or unmet needs among female clients, and highlights the need for tailored retention strategies. Again, note that while female churn rates exceed male churn, both genders exceed the target churn rate of 15%. 
