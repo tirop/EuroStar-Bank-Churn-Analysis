@@ -42,7 +42,7 @@ Below is the overview page from the Tableau dashboard.
 
 ![Screenshot 2025-01-07 125939](https://github.com/user-attachments/assets/74f5fffd-49b9-44fe-a25b-921509e2e225)
 
-The entire interactive dashboard can be downloaded([here](https://public.tableau.com/app/profile/joshua.kendagor/viz/BankChurn_1_v4/ChurnDashboardV2).
+The entire interactive dashboard can be downloaded([here](https://public.tableau.com/app/profile/joshua.kendagor/viz/BankChurn_1_v4/ChurnDashboardV2)).
   
 ## Insights Deep Dive
 ### Demographics
